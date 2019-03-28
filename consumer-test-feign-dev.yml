@@ -1,4 +1,4 @@
 info:
   profile: dev
-testKey: testValue-dev
-testKey2: testValue2-dev
+testKey: testValue-dev-2.0
+testKey2: testValue2-dev-2.0
